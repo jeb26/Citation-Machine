@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <title>OCLC Worldcat Search: 0672329468</title>
+    <id>http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=0672329468&amp;start=1&amp;count=10&amp;format=atom&amp;wskey=fRDCboLGRMyPgWPEXNT6ybLDe9ZySdp1VH9SxWDMxiyjFRTHc2ATZVTYbrGgXwXEsM4hQozz3lPapR3R</id>
+    <updated>2013-07-06T02:47:37-04:00</updated>
+    <subtitle>Search results for 0672329468 at http://worldcat.org/webservices/catalog</subtitle>
+    <opensearch:totalResults>5</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+    <opensearch:Query role="request" searchTerms="0672329468" startPage="1"/>
+    <link rel="alternate" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=0672329468&amp;start=1&amp;count=10&amp;wskey=fRDCboLGRMyPgWPEXNT6ybLDe9ZySdp1VH9SxWDMxiyjFRTHc2ATZVTYbrGgXwXEsM4hQozz3lPapR3R" type="text/html"/>
+    <link rel="self" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=0672329468&amp;start=1&amp;count=10&amp;format=atom&amp;wskey=fRDCboLGRMyPgWPEXNT6ybLDe9ZySdp1VH9SxWDMxiyjFRTHc2ATZVTYbrGgXwXEsM4hQozz3lPapR3R" type="application/atom+xml"/>
+    <link rel="first" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=0672329468&amp;start=1&amp;count=10&amp;format=atom&amp;wskey=fRDCboLGRMyPgWPEXNT6ybLDe9ZySdp1VH9SxWDMxiyjFRTHc2ATZVTYbrGgXwXEsM4hQozz3lPapR3R" type="application/atom+xml"/>
+    <link rel="last" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=0672329468&amp;start=5&amp;count=10&amp;format=atom&amp;wskey=fRDCboLGRMyPgWPEXNT6ybLDe9ZySdp1VH9SxWDMxiyjFRTHc2ATZVTYbrGgXwXEsM4hQozz3lPapR3R" type="application/atom+xml"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="http://worldcat.org/webservices/catalog/opensearch.description.xml"/>
+    <entry>
+        <author>
+            <name>Love, Robert (Robert M.)</name>
+        </author>
+        <title>Linux kernel development</title>
+        <link href="http://worldcat.org/oclc/268788260"/>
+        <id>http://worldcat.org/oclc/268788260</id>
+        <updated>2012-12-15T10:13:28Z</updated>
+        <dc:identifier>urn:ISBN:9780672329463</dc:identifier>
+        <dc:identifier>urn:ISBN:0672329468</dc:identifier>
+        <dc:identifier>urn:LCCN:2010018961</dc:identifier>
+        <oclcterms:recordIdentifier>268788260</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Love, Robert</name>
+        </author>
+        <title>Linux kernel development : [a thorough guide to the design and implementation of the Linux kernel]</title>
+        <link href="http://worldcat.org/oclc/845607086"/>
+        <id>http://worldcat.org/oclc/845607086</id>
+        <updated>2013-06-02T22:11:33Z</updated>
+        <dc:identifier>urn:ISBN:0672329468</dc:identifier>
+        <dc:identifier>urn:ISBN:9780672329463</dc:identifier>
+        <dc:identifier>urn:LCCN:2010018961</dc:identifier>
+        <oclcterms:recordIdentifier>845607086</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Love, Robert</name>
+        </author>
+        <title>Linux kernel development : [a thorough guide to the design and implementation of the Linux kernel]</title>
+        <link href="http://worldcat.org/oclc/844952669"/>
+        <id>http://worldcat.org/oclc/844952669</id>
+        <updated>2013-05-29T11:19:32Z</updated>
+        <dc:identifier>urn:ISBN:0672329468</dc:identifier>
+        <dc:identifier>urn:ISBN:9780672329463</dc:identifier>
+        <oclcterms:recordIdentifier>844952669</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Love, Robert</name>
+        </author>
+        <title>Linux kernel development : [a thorough guide to the design and implementation of the Linux kernel]</title>
+        <link href="http://worldcat.org/oclc/844983182"/>
+        <id>http://worldcat.org/oclc/844983182</id>
+        <updated>2013-05-29T18:39:11Z</updated>
+        <dc:identifier>urn:ISBN:0672329468</dc:identifier>
+        <dc:identifier>urn:ISBN:9780672329463</dc:identifier>
+        <oclcterms:recordIdentifier>844983182</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Love, Robert M.</name>
+        </author>
+        <title>Linux kernel development</title>
+        <link href="http://worldcat.org/oclc/843883694"/>
+        <id>http://worldcat.org/oclc/843883694</id>
+        <updated>2013-05-23T10:43:19Z</updated>
+        <dc:identifier>urn:ISBN:0672329468</dc:identifier>
+        <dc:identifier>urn:ISBN:9780672329463</dc:identifier>
+        <dc:identifier>urn:LCCN:2010018961</dc:identifier>
+        <oclcterms:recordIdentifier>843883694</oclcterms:recordIdentifier>
+    </entry>
+</feed>

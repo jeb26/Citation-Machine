@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\prog\asp.net\ParseXML\ParseXML\ParseXML\bin\ParseXML.dll
+C:\Users\Administrator\Desktop\prog\asp.net\ParseXML\ParseXML\ParseXML\bin\ParseXML.pdb
+C:\Users\Administrator\Desktop\prog\asp.net\ParseXML\ParseXML\ParseXML\obj\Debug\ParseXML.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\prog\asp.net\ParseXML\ParseXML\ParseXML\obj\Debug\ParseXML.dll
+C:\Users\Administrator\Desktop\prog\asp.net\ParseXML\ParseXML\ParseXML\obj\Debug\ParseXML.pdb
